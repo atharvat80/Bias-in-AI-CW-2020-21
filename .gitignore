@@ -1,4 +1,7 @@
-suggested_projects.pdf
-project_outline.pdf
-notes.md
-1802.04422.pdf
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!coursework.ipynb
+!adult.csv
